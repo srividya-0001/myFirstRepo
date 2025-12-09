@@ -1,7 +1,0 @@
-hello..!
-
-This is my first git repo 
-This is a local repo...
-
-this is the second line 
-need to confirm it....
